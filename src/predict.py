@@ -103,7 +103,7 @@ if __name__ == "__main__":
         "HAM": "Ferrari",
         "NOR": "McLaren",
         "PIA": "McLaren",
-        "HAD": "Racing Bulls",
+        "HAD": "Red Bull Racing",
         "GAS": "Alpine",
         "LAW": "Racing Bulls",
     }
