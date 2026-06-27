@@ -18,7 +18,6 @@ AUSTRIA = {
 }
 
 # estimated Austria qualifying weather (late June, Red Bull Ring)
-# will be updated with real forecast closer to race weekend
 AUSTRIA_WEATHER = {
     "AirTemp": 24.0,
     "TrackTemp": 45.0,
@@ -26,8 +25,7 @@ AUSTRIA_WEATHER = {
     "WindSpeed": 2.5,
 }
 
-# Austria session median sector times estimated from 2025 Austrian GP qualifying
-# we will update these once FP data is available
+# sector medians based on 2025 Austrian GP qualifying baseline
 AUSTRIA_MEDIANS = {
     "S1Seconds": 16.45,
     "S2Seconds": 29.10,
